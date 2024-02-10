@@ -1,0 +1,27 @@
+########################################################
+
+
+
+******* ยังติดปัญหาอยู่ครับ **** 
+
+
+
+
+
+
+
+
+
+
+
+
+////////////////////////////////
+
+1.เตรียมไฟล์ต่างๆ
+2.ทำการ ดึง docker container nginx
+3.ทำการรัน web server nginx mapping port 8080
+4.ทำการ install  ( pip install psycopg2 )
+รัน therminal :   docker compose up
+5.สร้างตารางโดยการรัน script create_table.py
+6.เตรียมข้อมูล json
+7.ทำการเปิดใช้งาน service ( Postgres )
